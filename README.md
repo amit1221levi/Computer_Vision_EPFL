@@ -33,4 +33,4 @@ Understand the basic principles and techniques in computer vision
 Apply image processing techniques to preprocess images for further analysis
 Implement feature detection and matching algorithms for object recognition
 Use deep learning techniques for image classification and object detection
-Develop applications that utilize computer vision techniques for various tasks, such as image stitching, motion analysis, and augmented reality
+Develop applications that utilize computer vision techniques for various tasks, such as image stitching, motion analysis, and augmented reality 
